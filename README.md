@@ -1,24 +1,12 @@
-# app
+# vue-bilibili
 
-## Project setup
-```
-npm install
-```
+仿b站移动端开发，使用vue-cli4.x脚手架创建项目
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+技术栈 vue2.6 + vue-router + axios + ES6 + less + flex + vant
 
-### Compiles and minifies for production
-```
-npm run build
-```
+vue路由采用history模式和懒加载的方式
 
-### Lints and fixes files
-```
-npm run lint
-```
+使用vw单位实现自适应布局
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+使用阿里妈妈矢量图标库（iconfont）
+
